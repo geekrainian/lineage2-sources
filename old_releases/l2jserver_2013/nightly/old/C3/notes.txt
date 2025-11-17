@@ -1,0 +1,11 @@
+This release and all of the former development after the CVS versions were held at http://opensvn.csie.org/l2j with a different revision numbering.
+
+I'm uploading this source code and repository information for the history record of the project.
+
+We moved from OpenSVN to our own SVN servers during the early C4 support stages, because our traffic were just too much.
+
+If you're interested in the ancient pre-C3 support source code you can find it at OpenSVN while they still hold it. Additionally there's some pre C3 binaries published in our sourceforge.net files page.
+
+References:
+http://opensvn.csie.org/l2j
+http://sourceforge.net/projects/l2j/files/

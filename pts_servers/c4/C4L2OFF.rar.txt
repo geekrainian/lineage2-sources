@@ -1,0 +1,136 @@
+https://maxcheaters.com/topic/212072-pack-c4-custom/
+
+Fixes
+
+  Hide contents
+Fix Mana potion Cutting action
+Fix Focus shinning _bow
+Fix Html npc buffer fore Fixada and black
+Fix CP Potion delay
+Fix Quick healing delay
+Fix Zaken %Stun
+Fix Antharas %Stun
+Fix Titanium no drop
+Fix weight all class pasive
+Fix Quest sub 100%
+Fix Dusk Sword Grad S
+Fix Duration time -rand (1000) + rand(150)/100 != 0 Item Mulruk Succubus
+Fix Sleep delay
+Fix Quest nobless 100%
+Fix Spawn barakiel 4hor
+Fix Judge of Splendor -rand (1000) + rand(210)/200 != 0
+Fix Blessed Clan Hoause Time 0.2
+Fix Blessed Castle Time 0.2
+Fix Greater Healing Potion 100% Regeneration
+Fix Zaken saints necropolis
+Fix debuff, buffer character with party
+Many do not remember anymore
+
+
+Quest
+
+% high Tested
+
+  Hide contents
+Nobless 100%
+Sub 100%
+Baium 100%
+Valakas 100%
+Antharas 100%
+Pet 100%
+
+ 
+
+Credits
+60% Script 
+coep
+ 
+Mods
+  Hide contents
+
+OfflineShop -> comando .offline no free  Credits devmp
+Auto pick up Credits  Estregoik
+Announce Raid boss Down
+Announce PvP
+Announce Pk
+Slot Buffer +22
+Announce login hero
+Announce Nobless
+Announce Exit Player
+GlobalShout Credits unknow
+Tutorial guide login
+
+ 
+Protection
+  I do not know, my extender  no have 
+ 
+Skill
+Sets passive skill
+any fixes
+ 
+Custom
+  Hide contents
+SetTitanium 
+SetKanion
+Coins
+Buffer Item
+Dusk Shield
+Weapons Epic
+etc...
+ 
+
+NPCs
+  Hide contents
+Costumable
+Weapons
+Armor
+Custom-NPC
+Buffer html fix return 2 Hor buffer
+GK Global 
+Dye
+Mob Dual aiox
+Gate Class
+etc...
+ 
+
+Drop
+All raid boss coin
+Event medal
+ 
+Spawn npc
+All town 
+ 
+Event
+Coliseum
+ Event custom raid boss teleport giram, is not 100% 
+ 
+Ai.obj
+% Cleaning
+ 
+Bugs Report
+Raid boss = Locks 2 second 
+Geodata-nextDev no 100%
+Skill Fades away restart cached
+ 
+ Duration spent to do
+
+1 year 6 months 6 hours per day
+
+ 
+In game
+
+ 
+
+http://i.imgur.com/M2hPQqD.jpg
+
+ 
+
+http://i.imgur.com/9cRzuM3.jpg
+
+http://i.imgur.com/4Ncrqxt.jpg
+
+ 
+
+Start in windows server 2003,2008 or 7
+ 
+No have backdoor
